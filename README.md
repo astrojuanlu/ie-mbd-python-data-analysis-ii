@@ -13,5 +13,5 @@ Google Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg
 ## Local installation
 
 ```
-$ conda env create
+$ conda create -n ie_mbd_py37 anaconda=2020.02
 ```
