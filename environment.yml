@@ -1,0 +1,5 @@
+name: ie_mbd_py37
+channels:
+  - defaults
+dependencies:
+  - anaconda=2020.02
