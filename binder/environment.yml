@@ -1,4 +1,3 @@
-name: ie_mbd_py37
 channels:
   - defaults
 dependencies:
@@ -17,3 +16,4 @@ dependencies:
   - xlrd=1.2.0=py37_0
   - xlsxwriter=1.2.7=py_0
   - xlwt=1.3.0=py37_0
+  - rise
