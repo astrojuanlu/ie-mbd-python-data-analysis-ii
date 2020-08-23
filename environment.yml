@@ -2,4 +2,18 @@ name: ie_mbd_py37
 channels:
   - defaults
 dependencies:
-  - anaconda=2020.02
+  - anaconda-navigator=1.9.12=py37_0
+  - ipywidgets=7.5.1=py_0
+  - matplotlib=3.1.3=py37_0
+  - numpy=1.18.1=py37h4f9e942_0
+  - pandas=1.0.1=py37h0573a6f_0
+  - pandoc=2.2.3.2=0
+  - python=3.7.6=h0371630_2
+  - python-dateutil=2.8.1=py_0
+  - requests=2.22.0=py37_1
+  - scikit-learn=0.22.1=py37hd81dba3_0
+  - seaborn=0.10.0=py_0
+  - widgetsnbextension=3.5.1=py37_0
+  - xlrd=1.2.0=py37_0
+  - xlsxwriter=1.2.7=py_0
+  - xlwt=1.3.0=py37_0
