@@ -6,7 +6,7 @@
 
 ## Cloud usage
 
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-python-data-analysis-ii/master?filepath=intro.ipynb)
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-python-data-analysis-ii/main?filepath=intro.ipynb)
 
 ## Local installation
 
