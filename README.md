@@ -1,17 +1,15 @@
 ![IE](img/ie.png)
 
-# Python for Statistical Programming
+# Python for Data Analysis II
 
-"Python for Statistical Programming" subject from the Master in Big Data @ IE.
+"Python for Data Analysis II" subject from the Master in Big Data @ IE.
 
 ## Cloud usage
 
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-python-statistical-programming/master?filepath=intro.ipynb)
-
-Google Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astrojuanlu/ie-mbd-python-statistical-programming/blob/master/intro.ipynb)
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-python-data-analysis-ii/master?filepath=intro.ipynb)
 
 ## Local installation
 
 ```
-$ conda create -n ie_mbd_py37 anaconda=2020.02
+$ conda create -n iembd_pyii_38 anaconda=2021.05
 ```
